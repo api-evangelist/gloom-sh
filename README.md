@@ -1,4 +1,4 @@
-# gloom-sh
+# Gloom
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,177 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gloom-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gloom.sh/
+Gloom is an open-source finance terminal offering both desktop and terminal user interfaces. It provides market data, charts, news, filings, portfolio tracking, alerts, and extensible plugins. The platform is free, community‑driven, and aims to give power users a fast, keyboard‑centric workspace for research and trading workflows.
+
+**Areas:** Finance · OpenSource · Terminal · MarketData · Community
+
+## Gloom on APIs.io
+
+Everything profiled for Gloom is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gloom-sh/](https://apis.io/providers/gloom-sh/)** — or go straight to one of the APIs or properties below.
+
+### APIs (46)
+
+- [Gloom Analyst Estimates API](https://apis.io/apis/gloom-sh/gloom-sh-analyst-estimates-api/) — Analyst estimates and revisions
+- [Gloom App Attention API](https://apis.io/apis/gloom-sh/gloom-sh-app-attention-api/) — App attention
+- [Gloom Awards API](https://apis.io/apis/gloom-sh/gloom-sh-awards-api/) — Government awards
+- [Gloom Bond Trades API](https://apis.io/apis/gloom-sh/gloom-sh-bond-trades-api/) — Corporate bond trades
+- [Gloom Bulk API](https://apis.io/apis/gloom-sh/gloom-sh-bulk-api/) — Daily snapshot files, exports over many listings, and webhooks. Each costs the credits of the same rows read call by call.
+- [Gloom Catalysts API](https://apis.io/apis/gloom-sh/gloom-sh-catalysts-api/) — Catalysts and litigation
+- [Gloom Cds API](https://apis.io/apis/gloom-sh/gloom-sh-cds-api/) — Credit default swaps
+- [Gloom Central Bank Rates API](https://apis.io/apis/gloom-sh/gloom-sh-central-bank-rates-api/) — Central bank rates
+- [Gloom Congress API](https://apis.io/apis/gloom-sh/gloom-sh-congress-api/) — Congress trades
+- [Gloom Cot API](https://apis.io/apis/gloom-sh/gloom-sh-cot-api/) — CFTC positioning
+- [Gloom Cpi API](https://apis.io/apis/gloom-sh/gloom-sh-cpi-api/) — US consumer prices
+- [Gloom Credit Documents API](https://apis.io/apis/gloom-sh/gloom-sh-credit-documents-api/) — Credit documents and covenants
+- [Gloom Crypto API](https://apis.io/apis/gloom-sh/gloom-sh-crypto-api/) — Digital asset markets
+- [Gloom Debt Maturities API](https://apis.io/apis/gloom-sh/gloom-sh-debt-maturities-api/) — Debt maturities
+- [Gloom Depositary Receipts API](https://apis.io/apis/gloom-sh/gloom-sh-depositary-receipts-api/) — Depositary receipts (ADR reference)
+- [Gloom Document Search API](https://apis.io/apis/gloom-sh/gloom-sh-document-search-api/) — Document search
+- [Gloom Earnings API](https://apis.io/apis/gloom-sh/gloom-sh-earnings-api/) — Earnings calendar and moves
+- [Gloom Energy Inventories API](https://apis.io/apis/gloom-sh/gloom-sh-energy-inventories-api/) — EIA energy inventories
+- [Gloom Equity Screener API](https://apis.io/apis/gloom-sh/gloom-sh-equity-screener-api/) — Equity screener
+- [Gloom Events API](https://apis.io/apis/gloom-sh/gloom-sh-events-api/) — 8-K events
+- [Gloom Exec Pay API](https://apis.io/apis/gloom-sh/gloom-sh-exec-pay-api/) — Executive pay
+- [Gloom Exposure API](https://apis.io/apis/gloom-sh/gloom-sh-exposure-api/) — Exposure engine
+- [Gloom Futures API](https://apis.io/apis/gloom-sh/gloom-sh-futures-api/) — Futures curves, archives and generics
+- [Gloom Gpu API](https://apis.io/apis/gloom-sh/gloom-sh-gpu-api/) — GPU rental prices
+- [Gloom Hiring Jobs API](https://apis.io/apis/gloom-sh/gloom-sh-hiring-jobs-api/) — Hiring postings
+- [Gloom Hiring Momentum API](https://apis.io/apis/gloom-sh/gloom-sh-hiring-momentum-api/) — Hiring momentum
+- [Gloom Ipo API](https://apis.io/apis/gloom-sh/gloom-sh-ipo-api/) — IPO calendar
+- [Gloom Kpis Guidance API](https://apis.io/apis/gloom-sh/gloom-sh-kpis-guidance-api/) — KPIs and guidance
+- [Gloom Macro API](https://apis.io/apis/gloom-sh/gloom-sh-macro-api/) — Yield curves and macro series
+- [Gloom Market Data API](https://apis.io/apis/gloom-sh/gloom-sh-market-data-api/) — Market prices and company fundamentals
+- [Gloom Mna API](https://apis.io/apis/gloom-sh/gloom-sh-mna-api/) — Mergers and acquisitions
+- [Gloom News API](https://apis.io/apis/gloom-sh/gloom-sh-news-api/) — News
+- [Gloom Options API](https://apis.io/apis/gloom-sh/gloom-sh-options-api/) — Options flow, chains and implied volatility
+- [Gloom Perps API](https://apis.io/apis/gloom-sh/gloom-sh-perps-api/) — Perpetuals
+- [Gloom Power API](https://apis.io/apis/gloom-sh/gloom-sh-power-api/) — Power and grid
+- [Gloom Rate Path API](https://apis.io/apis/gloom-sh/gloom-sh-rate-path-api/) — Rate path
+- [Gloom Reference API](https://apis.io/apis/gloom-sh/gloom-sh-reference-api/) — Public reference and estimates; no key required.
+- [Gloom Revenue Breakdown API](https://apis.io/apis/gloom-sh/gloom-sh-revenue-breakdown-api/) — Revenue breakdown
+- [Gloom Risk Factors API](https://apis.io/apis/gloom-sh/gloom-sh-risk-factors-api/) — Risk factors
+- [Gloom Sec API](https://apis.io/apis/gloom-sh/gloom-sh-sec-api/) — SEC filings, insiders and 13F holders
+- [Gloom Session Tape API](https://apis.io/apis/gloom-sh/gloom-sh-session-tape-api/) — Session movers, highs/lows and tape
+- [Gloom Short Interest API](https://apis.io/apis/gloom-sh/gloom-sh-short-interest-api/) — FINRA short interest
+- [Gloom Short Volume API](https://apis.io/apis/gloom-sh/gloom-sh-short-volume-api/) — FINRA short volume
+- [Gloom Social Mentions API](https://apis.io/apis/gloom-sh/gloom-sh-social-mentions-api/) — Social mentions
+- [Gloom Supply Chain API](https://apis.io/apis/gloom-sh/gloom-sh-supply-chain-api/) — Supply chain
+- [Gloom Transcripts API](https://apis.io/apis/gloom-sh/gloom-sh-transcripts-api/) — Earnings-call transcripts
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Gloom Agentic Access](https://apis.io/agentic-access/gloom-sh/gloom-sh-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AppsBoardResponse](https://apis.io/schemas/gloom-sh/gloom-sh-apps-board-response/)
+- [AppsCompanyResponse](https://apis.io/schemas/gloom-sh/gloom-sh-apps-company-response/)
+- [BondTradesTradesResponse](https://apis.io/schemas/gloom-sh/gloom-sh-bond-trades-trades-response/)
+- [CatalystsChangesResponse](https://apis.io/schemas/gloom-sh/gloom-sh-catalysts-changes-response/)
+- [CatalystsListResponse](https://apis.io/schemas/gloom-sh/gloom-sh-catalysts-list-response/)
+- [Meta](https://apis.io/schemas/gloom-sh/gloom-sh-meta/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gloom Sh Context](https://apis.io/jsonld/gloom-sh/gloom-sh-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gloom API Rules](https://apis.io/rules/gloom-sh/gloom-sh-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gloom Authentication](https://apis.io/security/gloom-sh/gloom-sh-authentication/)
+- [Gloom Domain Security](https://apis.io/security/gloom-sh/gloom-sh-domain-security/)
+- [Gloom Vulnerability Disclosure](https://apis.io/security/gloom-sh/gloom-sh-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gloom Plans Pricing](https://apis.io/plans/gloom-sh/gloom-sh-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gloom.sh/)
+- [Documentation](https://gloom.sh/docs)
+- [Getting started](https://gloom.sh/datasets/docs/quickstart)
+- [API reference](https://gloom.sh/datasets/docs)
+- [Pricing](https://gloom.sh/datasets/pricing)
+- [Changelog](https://gloom.sh/changelog)
+- [Blog](https://gloom.sh/blog)
+- [Security](https://github.com/gloom-sh/gloomberb/blob/main/SECURITY.md)
+- [Terms of service](https://gloom.sh/terms)
+- [Privacy policy](https://gloom.sh/privacy)
+
+## API Evangelist rating
+
+**Kin Score 62.5** — strong · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 64.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.2 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 47.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gloom-sh/](https://apis.io/providers/gloom-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gloom: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gloom-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
